@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/djdonmil/demo/compare/v1.1.0...v1.2.0) (2022-04-23)
+
+
+### Features
+
+* **packages:** adding script and packages ([49f6597](https://github.com/djdonmil/demo/commit/49f65978a1f22d47890eac1d3997376cce30e480))
+
+
+### Bug Fixes
+
+* **routes:** add enter ([442a9ad](https://github.com/djdonmil/demo/commit/442a9ad2b02ee6f48c63c13c38e4cc50299ef1e9))
+
 ## 1.1.0 (2022-04-23)
 
 
