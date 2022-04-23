@@ -4,13 +4,17 @@
     "prod": "gulp --production",
     "dev": "gulp watch",
     "release": "standard-version",
-    "commit": "cz"
+    "commit": "cz",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
     "bootstrap-sass": "^3.0.0",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "gulp": "^3.9.1",
+    "husky": "^7.0.4",
     "laravel-elixir": "^5.0.0",
     "standard-version": "^9.3.2"
   },
