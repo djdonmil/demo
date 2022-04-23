@@ -3,10 +3,14 @@
   "scripts": {
     "prod": "gulp --production",
     "dev": "gulp watch",
-    "release": "standard-version"
+    "release": "standard-version",
+    "commit": "cz"
+
   },
   "devDependencies": {
     "bootstrap-sass": "^3.0.0",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "gulp": "^3.9.1",
     "laravel-elixir": "^5.0.0",
     "standard-version": "^9.3.2"
@@ -20,5 +24,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
