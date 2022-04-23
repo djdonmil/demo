@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/djdonmil/demo/compare/v1.2.0...v1.3.0) (2022-04-23)
+
+
+### Features
+
+* **new-feature:** add a husky and adaptors ([d0a3471](https://github.com/djdonmil/demo/commit/d0a3471ddead69b0ce3b17d70ff063213513016b))
+
 ## [1.2.0](https://github.com/djdonmil/demo/compare/v1.1.0...v1.2.0) (2022-04-23)
 
 
